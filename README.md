@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ML
+- 👯 I’m looking to collaborate on project
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DumplingSociety)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **DumplingSociety/DumplingSociety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
